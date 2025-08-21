@@ -15,6 +15,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -39,9 +40,7 @@
 </p>
 
 ### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ai-nihar&theme=react-dark" alt="Contribution Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ai-nihar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ---
 <p align="center">⭐️ From [ai-nihar](https://github.com/ai-nihar)</p>
