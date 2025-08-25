@@ -11,7 +11,9 @@
 - 🔭 I'm enthusiastic about exploring new technologies and developing software solutions
 - 🌱 Always eager to learn and grow in the tech world
 - 💡 Open to collaborating on interesting projects
-- 📫 How to reach me: [Connect on GitHub](https://github.com/ai-nihar)
+- 📫 How to reach me:
+- [Connect on GitHub](https://github.com/ai-nihar)
+- [Connect on Linkedin](https://www.linkedin.com/in/nihar-kakani-081676335/)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
