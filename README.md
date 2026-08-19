@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ai-nihar&label=Profile%20views&color=6366F1&style=flat" alt="ai-nihar" />
 </p>
 
-Computer Engineering student in Ahmedabad · co-founder @ [FourierTech](https://github.com/FourierTech) — 
+Computer Engineering student in Ahmedabad · co-founder @[FourierTech](https://fourier-tech.vercel.app/) — 
 building production web apps for real clients.
 <br/>
 
